@@ -11,4 +11,4 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 ![A3S1](./screenshots/A3S1.PNG)
 
 # Activity4
-![A4S1](./screenshots/A3S1.PNG)
+![A4S1](./screenshots/A4S1.PNG)
