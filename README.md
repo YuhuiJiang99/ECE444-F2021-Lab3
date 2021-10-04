@@ -6,6 +6,7 @@ Yuhui Jiang
 
 # Activity2
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
+![image](https://user-images.githubusercontent.com/87924063/135888477-1cd888fc-54cf-4862-9c29-e1aa519a2814.png)
 
 # Activity3
 ![A3S1](./screenshots/A3S1.PNG)
